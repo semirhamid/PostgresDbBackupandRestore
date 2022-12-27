@@ -6,11 +6,11 @@ This package is used to backup and restore the postgresSQL database
 ## Installation Instructions
 Nuget package available (https://www.nuget.org/packages/Postgres.BackupandRestoreDatabase)
 ```
-Install-Package Postgres.BackupandRestoreDatabase -Version 1.4.1
+Install-Package Postgres.BackupandRestoreDatabase -Version 1.5.1
 ```
 dotnet cli:
 ```
-dotnet add package Postgres.BackupandRestoreDatabase --version 1.4.1
+dotnet add package Postgres.BackupandRestoreDatabase --version 1.5.1
 ```
 # Package usage
 ## 1. Register the service to Dependency Injection
