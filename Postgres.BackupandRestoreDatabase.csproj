@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>PostgresDb Backup and Restore</Title>
+    <Authors>Semir Hamid</Authors>
+    <Company>Semir</Company>
+    <Product>PostgresDb Backup and Restore</Product>
+    <Description>This package is used to backup and restore the postgres database</Description>
+    <PackageIcon>pdbicon.png</PackageIcon>
+	  <IsPackable>true</IsPackable>
+    <RepositoryUrl>https://github.com/semirhamid/PostgresDbBackupandRestore</RepositoryUrl>
+    <Version>1.5.1</Version>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/semirhamid/PostgresDbBackupandRestore</PackageProjectUrl>
+    <PackageTags>backup; postgres; restore; database;</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="D:\pdbicon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="F:\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

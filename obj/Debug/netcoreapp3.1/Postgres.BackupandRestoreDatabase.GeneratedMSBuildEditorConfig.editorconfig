@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Postgres.BackupandRestoreDatabase
+build_property.ProjectDir = E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\

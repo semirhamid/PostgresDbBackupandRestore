@@ -1,0 +1,5 @@
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\netcoreapp3.1\Postgres.BackupandRestoreDatabase.csproj.AssemblyReference.cache
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\netcoreapp3.1\Postgres.BackupandRestoreDatabase.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\netcoreapp3.1\Postgres.BackupandRestoreDatabase.AssemblyInfoInputs.cache
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\netcoreapp3.1\Postgres.BackupandRestoreDatabase.AssemblyInfo.cs
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\netcoreapp3.1\Postgres.BackupandRestoreDatabase.csproj.CoreCompileInputs.cache

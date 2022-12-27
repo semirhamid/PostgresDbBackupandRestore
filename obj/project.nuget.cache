@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w42waCxXiGWpntnMSISau+x7oh8WcSyjiQV1VeXLAqG0Q8ghrT8APvrYAmf5Vt0h5KbtApIXzhq7UQFB+2Wt9w==",
+  "success": true,
+  "projectFilePath": "E:\\asp package\\Postgres.BackupandRestoreDatabase\\Postgres.BackupandRestoreDatabase\\Postgres.BackupandRestoreDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semha\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\semha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\semha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\semha\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

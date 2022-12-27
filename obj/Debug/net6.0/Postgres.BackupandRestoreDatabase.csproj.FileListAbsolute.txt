@@ -1,0 +1,12 @@
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\Postgres.BackupandRestoreDatabase.csproj.AssemblyReference.cache
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\Postgres.BackupandRestoreDatabase.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\Postgres.BackupandRestoreDatabase.AssemblyInfoInputs.cache
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\Postgres.BackupandRestoreDatabase.AssemblyInfo.cs
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\Postgres.BackupandRestoreDatabase.csproj.CoreCompileInputs.cache
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\bin\Debug\net6.0\Postgres.BackupandRestoreDatabase.deps.json
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\bin\Debug\net6.0\Postgres.BackupandRestoreDatabase.dll
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\bin\Debug\net6.0\Postgres.BackupandRestoreDatabase.pdb
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\Postgres.BackupandRestoreDatabase.dll
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\refint\Postgres.BackupandRestoreDatabase.dll
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\Postgres.BackupandRestoreDatabase.pdb
+E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\obj\Debug\net6.0\ref\Postgres.BackupandRestoreDatabase.dll

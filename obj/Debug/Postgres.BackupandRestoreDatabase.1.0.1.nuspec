@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Postgres.BackupandRestoreDatabase</id>
+    <version>1.0.1</version>
+    <title>PostgresDb Backup and Restore</title>
+    <authors>Semir Hamid</authors>
+    <icon>pdbicon.png</icon>
+    <description>This package is used to backup and restore the postgres database</description>
+    <repository url="https://github.com/semirhamid/PostgresDbBackupandRestore" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Http.Features" version="5.0.17" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\asp package\Postgres.BackupandRestoreDatabase\Postgres.BackupandRestoreDatabase\bin\Debug\net6.0\Postgres.BackupandRestoreDatabase.dll" target="lib\net6.0\Postgres.BackupandRestoreDatabase.dll" />
+    <file src="D:\pdbicon.png" target="\pdbicon.png" />
+  </files>
+</package>
